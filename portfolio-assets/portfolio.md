@@ -29,10 +29,10 @@
 ### **Student Software Developer (Present)**
 #### Zip Code Wilmington - Wilmington, DE _(10/2021-01/2022)_
 > Admitted in Zip Code Wilmington’s highly-competitive software development program which accepts less than 12% of applicants; achieved over 1000 hours of software development projects and training in an immersive training program using Agile and Scrum methodologies and principles; gained experience in full-stack development with a focus on Java, test-driven development, and object-oriented programming.
-#### Projects Completed (newest to oldest):
-* [`ZCW-hildebrandtii - The Farm`](https://github.com/ZCW-hildebrandtii/TheFarm7dot2.git) : Collaborated in a team of 4 members to implement a system representative of a Farm Environment which  demonstrates  multi-inheritance  design.  Created  the  UML  diagram  displaying  relationships  between objects  including  interfaces,  abstract  classes,  and  concrete  classes.  Personally  responsible  for  establishing objects for crops and farm structures.
+#### Projects:
+* [`Cash Machine App`](https://github.com/AmandaJ-Huang/CashMachineJavaFX.git) : 
 * [`TheCamCasino - Casino App`](https://github.com/TheCamCasino/casino.maven.git) : Collaborated in a group of 3 members to create a text-based casino with three games, Blackjack, Go-Fish, and Roulette built with Java in IntelliJ IDEA. Personally responsible for unit tests and main game engine for Blackjack and related Deck package.
-* [`Cash Machine App`](https://github.com/AmandaJ-Huang/CashMachineJavaFX.git) : Utilizing a pre-built JavaFX structure for a Cash Machine Application, added additional functionality including registering a new bank account, validating user login, and updating the interface for easier usage.
+* [`ZCW-hildebrandtii - The Farm`](https://github.com/ZCW-hildebrandtii/TheFarm7dot2.git) : 
 ### **Internal Auditor | Chargeback Coordinator | AR Associate**
 ### Lannett Company, Inc. - Philadelphia, PA _(05/2018-09/2021)_
 * **Internal Auditor**, _09/2019-09/2021_
