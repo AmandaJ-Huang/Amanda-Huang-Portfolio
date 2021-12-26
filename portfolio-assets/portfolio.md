@@ -34,7 +34,7 @@
 * [`TheCamCasino - Casino App`](https://github.com/TheCamCasino/casino.maven.git) : Collaborated in a group of 3 members to create a text-based casino with three games, Blackjack, Go-Fish, and Roulette built with Java in IntelliJ IDEA. Personally responsible for unit tests and main game engine for Blackjack and related Deck package.
 * [`Cash Machine App`](https://github.com/AmandaJ-Huang/CashMachineJavaFX.git) : Utilizing a pre-built JavaFX structure for a Cash Machine Application, added additional functionality including registering a new bank account, validating user login, and updating the interface for easier usage.
 ### **Internal Auditor | Chargeback Coordinator | AR Associate**
-### Lannett Company, Inc. - Philadelphia, PA _(05/2018-09/2021)_
+#### Lannett Company, Inc. - Philadelphia, PA _(05/2018-09/2021)_
 * **Internal Auditor**, _09/2019-09/2021_
     * Streamlined day-to-day processes and enhanced documentation requests by collaborating with the internal audit team on implementing Wdesk, an audit solution software.
     * Worked under tight deadlines to test on average of 22 internal controls per quarter, exceeding the goal by 10%.
