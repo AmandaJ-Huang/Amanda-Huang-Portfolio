@@ -1,5 +1,4 @@
-# Amanda Huang Portfolio
-## Student Software Developer
+# Student Software Developer
 
 ---
 
