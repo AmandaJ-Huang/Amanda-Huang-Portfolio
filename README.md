@@ -1,15 +1,11 @@
-# Student Software Developer
-
----
-
 ## About Me
 ### Contact Information
 * **Email**: [`amandajoy.hng@gmail.com`](mailto:amandajoy.hng@gmail.com)
 * **LinkedIn**: [`https://www.linkedin.com/in/amanda-j-huang/`](https://www.linkedin.com/in/amanda-j-huang/)
 
 ### Technical Skills
-* **Languages**: Java
-* **Frameworks**: MySQL, Spring Boot, Git, Unit Testing
+* **Languages**: Java, SQL
+* **Frameworks**: Spring Boot, Git, Unit Testing
 
 ### Education
 #### **Rutgers University Business School** (2012-2018)
