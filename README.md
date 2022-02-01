@@ -22,7 +22,7 @@
 ---
 
 ## Professional Experience
-### **Student Software Developer (Present)**
+### **Student Software Developer**
 #### Zip Code Wilmington - Wilmington, DE _(10/2021-01/2022)_
 
 > Admitted in Zip Code Wilmington’s highly-competitive software development program which accepts less than 12% of applicants; achieved over 1000 hours of software development projects and training in an immersive training program using Agile and Scrum methodologies and principles; gained experience in full-stack development with a focus on Java, test-driven development, and object-oriented programming.
